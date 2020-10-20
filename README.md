@@ -20,7 +20,7 @@
 
 
 
-[twitter]: https://twitter.com/thedarkmarpme
+[twitter]: https://twitter.com/marpme_
 [linkedin]: https://www.linkedin.com/in/marvin-piekarek/
 [medium]: https://medium.com/@marpme
 [stackoverflow]: https://stackoverflow.com/users/4479618/marpme
