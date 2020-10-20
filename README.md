@@ -4,7 +4,7 @@
 
 * I’m currently working at the awesome [Signavio](https://signavio.com/) team & I am also participating multiple blockchain technologies like [Verge](https://vergecurrency.com/)!
 * Moreover I'm focusing on mentoring, supporting and developing people's strength by guiding them.
-* Fun fact: I'm currently investigating a new technology that makes it accessible to resolve name securily via blockchan [nops](https://github.com/marpme/nops)
+* Fun fact: I'm currently discovering new technology that makes it accessible to resolve name securily via blockchains [nops](https://github.com/marpme/nops)
 
 ### Connect with me:
 
