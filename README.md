@@ -10,6 +10,8 @@
 
 <img align="center" alt="marpme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marpme&show_icons=true&hide_border=true" />
 
+<img align="center" alt="marpme's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpme&layout=compact" />
+
 ### Connect with me:
 
 [<img align="left" alt="marpme | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
