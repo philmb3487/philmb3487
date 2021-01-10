@@ -22,6 +22,7 @@
 
 # ⚡️ What they said...👇
 
+![](commit4.png)
 ![](commit1.png)
 ![](commit2.png)
 ![](commit3.png)
