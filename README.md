@@ -20,7 +20,7 @@
 👊🏻 For business enquiries, ➡️ [please use email: sinetek@gmail.com](mailto:sinetek@gmail.com)
 <br />
 
-# ⚡️ What they said...👇
+# ⚡️ What they say...👇
 
 ![](commit4.png)
 ![](commit1.png)
