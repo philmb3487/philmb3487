@@ -28,8 +28,8 @@
 ![](commit3.png)
 
 
-#⬇️ DEVELOPMENT SERVICES ⬇️
-#👊🏻 For business enquiries, ➡️ [please use email: sinetek@gmail.com](mailto:sinetek@gmail.com)
+# ⬇️ DEVELOPMENT SERVICES ⬇️
+# 👊🏻 For business enquiries, ➡️ [please use email: sinetek@gmail.com](mailto:sinetek@gmail.com)
 <br />
 
 
