@@ -1,35 +1,16 @@
-## Hi there, I'm Philippe - aka [sinetek](https://github.com/sinetek) 👋
+## Hi there, I'm Philippe 👋
 
 # I'm a Developer! 🚀
 
-✅ I have my own firm, we're doing work in the bitcoin/altcoin space since [at least 2014](https://github.com/bitcoin/bitcoin/pull/5245).
+✅ I have my own firm, we're doing work in the bitcoin space since [at least 2014](https://github.com/bitcoin/bitcoin/pull/5245).
 <br />
-✅ I am looking for work now in the altcoin space. If you have a project -> [please contact me: sinetek@gmail.com](mailto:sinetek@gmail.com).
+✅ I am looking for work now doing software development. If you have a project -> [please contact me: pitwuu@gmail.com](mailto:pitwuu@gmail.com).
 <br />
-✅ I have a [website](https://sinetek.io).
+✅ I have a [website](https://sinetek.io). (out of order until further notice)
 <br />
-
-## Myself in a nutshell:
-
-<img align="center" alt="sinetek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinetek&show_icons=true&hide_border=true" />
-
-<img align="center" alt="sinetek's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinetek&layout=compact" />
-
-## Conversation with me:
-
-👊🏻 For business enquiries, ➡️ [please use email: sinetek@gmail.com](mailto:sinetek@gmail.com)
-<br />
-
-# ⚡️ What they say...👇
-
-![](commit4.png)
-![](commit1.png)
-![](commit2.png)
-![](commit3.png)
-
 
 # ⬇️ DEVELOPMENT SERVICES ⬇️
-# 👊🏻 For business enquiries, ➡️ [please use email: sinetek@gmail.com](mailto:sinetek@gmail.com)
+# 👊🏻 For business enquiries, ➡️ [please use email: pitwuu@gmail.com](mailto:pitwuu@gmail.com)
 <br />
 
 
